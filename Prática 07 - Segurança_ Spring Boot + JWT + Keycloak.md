@@ -1,4 +1,4 @@
-# Prática 07 - Segurança: Spring Boot + JWT + Keycloak
+# Prática 07 - Segurança - Spring Boot + JWT + Keycloak
 
 Este projeto é uma implementação de uma API REST com Spring Boot protegida por JWT (JSON Web Tokens) e utilizando o Keycloak como servidor de autorização (Authorization Server), conforme o roteiro da Prática 07.
 
