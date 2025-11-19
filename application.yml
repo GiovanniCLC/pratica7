@@ -1,0 +1,7 @@
+spring:
+  security:
+    oauth2:
+      resourceserver:
+        jwt:
+          # ATENÇÃO: Substitua 'http://localhost:8080/realms/demo' pela sua issuer-uri real do Keycloak
+          issuer-uri: http://localhost:8080/realms/demo
